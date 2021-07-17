@@ -13,7 +13,7 @@ namespace RectArea
             string height = Console.ReadLine();
 
             double area = double.Parse(width) * double.Parse(height);
-            Console.WriteLine($"{"사각형의 넓이는 : "}{area}");
+            Console.WriteLine($"사각형의 넓이는 : {area}");
         }
     }
 }
