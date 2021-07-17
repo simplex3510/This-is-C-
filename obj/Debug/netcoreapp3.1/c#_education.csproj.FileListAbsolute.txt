@@ -1,0 +1,13 @@
+C:\Users\202010961\바탕 화면\c#_education\bin\Debug\netcoreapp3.1\c#_education.exe
+C:\Users\202010961\바탕 화면\c#_education\bin\Debug\netcoreapp3.1\c#_education.deps.json
+C:\Users\202010961\바탕 화면\c#_education\bin\Debug\netcoreapp3.1\c#_education.runtimeconfig.json
+C:\Users\202010961\바탕 화면\c#_education\bin\Debug\netcoreapp3.1\c#_education.runtimeconfig.dev.json
+C:\Users\202010961\바탕 화면\c#_education\bin\Debug\netcoreapp3.1\c#_education.dll
+C:\Users\202010961\바탕 화면\c#_education\bin\Debug\netcoreapp3.1\c#_education.pdb
+C:\Users\202010961\바탕 화면\c#_education\obj\Debug\netcoreapp3.1\c#_education.csprojAssemblyReference.cache
+C:\Users\202010961\바탕 화면\c#_education\obj\Debug\netcoreapp3.1\c#_education.AssemblyInfoInputs.cache
+C:\Users\202010961\바탕 화면\c#_education\obj\Debug\netcoreapp3.1\c#_education.AssemblyInfo.cs
+C:\Users\202010961\바탕 화면\c#_education\obj\Debug\netcoreapp3.1\c#_education.csproj.CoreCompileInputs.cache
+C:\Users\202010961\바탕 화면\c#_education\obj\Debug\netcoreapp3.1\c#_education.dll
+C:\Users\202010961\바탕 화면\c#_education\obj\Debug\netcoreapp3.1\c#_education.pdb
+C:\Users\202010961\바탕 화면\c#_education\obj\Debug\netcoreapp3.1\c#_education.genruntimeconfig.cache
