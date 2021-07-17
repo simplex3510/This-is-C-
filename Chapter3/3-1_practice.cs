@@ -1,4 +1,6 @@
-﻿using System;
+﻿// 1. 사용자로부터 너비와 높이를 입력받아 넓이를 계산하는 프로그램을 완성하시오.
+
+using System;
 
 namespace RectArea
 {
